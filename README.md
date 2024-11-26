@@ -1,12 +1,12 @@
-# UWU Brute Force Simulation Tool
+# UWU Brute Force Tool
 
-Bienvenue sur l'outil UWU Brute Force Simulation ! Cet outil vous permet de tester un brute force simulé sur un lien et un pseudo en générant des tentatives de mots de passe de manière aléatoire.
+Bienvenue sur l'outil UWU Brute Force ! Cet outil vous permet de tester un brute force sur un lien et un pseudo en générant des tentatives de mots de passe de manière aléatoire.
 
 ## Fonctionnalités
 
 - Génération automatique de mots de passe aléatoires.
 - Affichage de chaque tentative de mot de passe dans l'interface.
-- Simulation d'un processus de brute force avec un nombre configurable de tentatives.
+- processus de brute force avec un nombre configurable de tentatives.
 
 ## Installation
 
@@ -16,3 +16,4 @@ Bienvenue sur l'outil UWU Brute Force Simulation ! Cet outil vous permet de test
 
 ```bash
 pip install customtkinter
+pip install requestes
