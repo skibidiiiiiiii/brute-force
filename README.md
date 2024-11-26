@@ -16,4 +16,4 @@ Bienvenue sur l'outil UWU Brute Force ! Cet outil vous permet de tester un brute
 
 ```bash
 pip install customtkinter
-pip install requestes
+pip install requests
